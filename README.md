@@ -1,5 +1,9 @@
 # Polymarket Scanner (Free Edition)
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![No API Key](https://img.shields.io/badge/API_key-not_required-brightgreen.svg)](#)
+
 Scan 10,000+ prediction markets for mispricings using the public Polymarket Gamma API.
 
 ## Quick Start
