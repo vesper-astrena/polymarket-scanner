@@ -39,6 +39,16 @@ Scanning ladder contradictions...
      Deviation: 36.0%, Liq: $19,341
 ```
 
+## REST API
+
+Don't want to run code locally? Use the **[Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api)** — a hosted REST endpoint that returns arbitrage opportunities as JSON:
+
+```bash
+curl https://polymarket-api.onrender.com/api/scan
+```
+
+Free tier: 3 requests/day. [Pro ($29/mo)](https://vesperfinch.gumroad.com/l/polymarket-api): unlimited.
+
 ## Full Version
 
 The [full Polymarket Scanner Toolkit](https://vesperfinch.gumroad.com/l/kxbax) ($29) adds:
